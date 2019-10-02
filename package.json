@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/ongstacy65/dsm-v-api/issues"
   },
-  "homepage": "https://github.com/ongstacy65/dsm-v-api#readme"
+  "homepage": "https://github.com/ongstacy65/dsm-v-api#readme",
+  "devDependencies": {
+    "graphpack": "^1.0.9"
+  }
 }
