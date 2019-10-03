@@ -4,7 +4,10 @@
   "description": "API for the DSM V app",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "graphpack",
+    "build": "graphpack build",
+    "start": "node ./build/index.js"
   },
   "repository": {
     "type": "git",
